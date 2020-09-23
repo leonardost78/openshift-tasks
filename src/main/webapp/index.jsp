@@ -42,13 +42,13 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="/">
-          OpenShift Tasks Demo
+          OpenShift Tasks Demo leo
         </a>
       </div>
       <div class="collapse navbar-collapse navbar-collapse-1">
         <ul class="nav navbar-nav navbar-primary">
           <li class="active">
-            <a href="/index.html" class="active">Home</a>
+            <a href="/index.html" class="active">Home leo</a>
           </li>
         </ul>
       </div>
